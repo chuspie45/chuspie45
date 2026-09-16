@@ -1,0 +1,17 @@
+CHUSPIE45 WEBSITE
+
+1. Extract this ZIP.
+2. Open your GitHub repository: chuspie45.github.io
+3. Click Add file → Upload files.
+4. Upload ALL files and the assets folder.
+5. Commit changes.
+6. Settings → Pages.
+7. Deploy from a branch.
+8. Branch: main
+9. Folder: /(root)
+10. Save.
+
+Website:
+https://chuspie45.github.io/
+
+Products, prices, cart, contact form and newsletter are demo elements until connected to real systems.
